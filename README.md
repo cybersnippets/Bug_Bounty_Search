@@ -29,7 +29,7 @@ To get started, follow these simple steps:
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/Bug_Bounty_Search.git
+    git clone https://github.com/cybersnippets/Bug_Bounty_Search.git
     ```
 
 2. **Install dependencies:**
